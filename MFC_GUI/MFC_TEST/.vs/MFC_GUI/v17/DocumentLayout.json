@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|solutionrelative:MFC_TEST\\database.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|solutionrelative:MFC_TEST\\database.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|solutionrelative:MFC_TEST\\targetver.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|solutionrelative:MFC_TEST\\Resource.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|solutionrelative:MFC_TEST\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\MFC_TESTDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|solutionrelative:MFC_TEST\\MFC_TESTDlg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\MFC_TEST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|solutionrelative:MFC_TEST\\MFC_TEST.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA5EC7D7-D463-4078-BA92-D12298C388BC}|MFC_TEST\\MFC_TEST.vcxproj|solutionrelative:MFC_TEST\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "database.h",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\database.h",
+              "RelativeDocumentMoniker": "MFC_TEST\\database.h",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\database.h",
+              "RelativeToolTip": "MFC_TEST\\database.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-18T10:15:33.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Microsoft.CppBuild.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Microsoft\\VC\\v170\\Microsoft.CppBuild.targets",
+              "ViewState": "AgIAAP4BAAAAAAAAAADwvxICAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-05-18T10:14:46.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "database.cpp",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\database.cpp",
+              "RelativeDocumentMoniker": "MFC_TEST\\database.cpp",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\database.cpp",
+              "RelativeToolTip": "MFC_TEST\\database.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T10:14:30.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "targetver.h",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\targetver.h",
+              "RelativeDocumentMoniker": "MFC_TEST\\targetver.h",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\targetver.h",
+              "RelativeToolTip": "MFC_TEST\\targetver.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:41:18.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resource.h",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\resource.h",
+              "RelativeDocumentMoniker": "MFC_TEST\\resource.h",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\resource.h",
+              "RelativeToolTip": "MFC_TEST\\resource.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:41:03.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\pch.h",
+              "RelativeDocumentMoniker": "MFC_TEST\\pch.h",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\pch.h",
+              "RelativeToolTip": "MFC_TEST\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:40:51.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MFC_TESTDlg.h",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\MFC_TESTDlg.h",
+              "RelativeDocumentMoniker": "MFC_TEST\\MFC_TESTDlg.h",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\MFC_TESTDlg.h",
+              "RelativeToolTip": "MFC_TEST\\MFC_TESTDlg.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:40:36.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MFC_TEST.h",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\MFC_TEST.h",
+              "RelativeDocumentMoniker": "MFC_TEST\\MFC_TEST.h",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\MFC_TEST.h",
+              "RelativeToolTip": "MFC_TEST\\MFC_TEST.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:40:24.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\framework.h",
+              "RelativeDocumentMoniker": "MFC_TEST\\framework.h",
+              "ToolTip": "C:\\Users\\\uCAC0\uCAC0\uC774\\Desktop\\Portfolio\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\1\uD300_1\uCC28 \uD504\uB85C\uC81D\uD2B8\\MFC_GUI\\MFC_TEST\\MFC_TEST\\framework.h",
+              "RelativeToolTip": "MFC_TEST\\framework.h",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-05T00:39:26.699Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

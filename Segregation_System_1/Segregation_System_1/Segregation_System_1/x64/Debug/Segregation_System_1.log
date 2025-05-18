@@ -1,0 +1,11 @@
+﻿  scanQRCode.cpp
+C:\opencv\build\include\opencv2\core.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  (compiling source file 'scanQRCode.cpp')
+  
+C:\opencv\build\include\opencv2\core.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  (compiling source file 'scanQRCode.cpp')
+  
+C:\opencv\build\include\opencv2\core.hpp(1,1): warning C4819: The file contains a character that cannot be represented in the current code page (949). Save the file in Unicode format to prevent data loss
+  (compiling source file 'scanQRCode.cpp')
+  
+  Segregation_System_1.vcxproj -> C:\opencv\Segregation_System_1\x64\Debug\Segregation_System_1.exe

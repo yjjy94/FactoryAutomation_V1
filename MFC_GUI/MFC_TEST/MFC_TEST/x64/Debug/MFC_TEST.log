@@ -1,0 +1,22 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (MFC_GUI.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
+  database.cpp
+  database_config.cpp
+C:\Users\쫀쫀이\Desktop\Portfolio\1팀_1차 프로젝트\1팀_1차 프로젝트\MFC_GUI\MFC_TEST\MFC_TEST\database.h(9,10): error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  (compiling source file '/database.cpp')
+  
+  db_user_info.cpp
+C:\Users\쫀쫀이\Desktop\Portfolio\1팀_1차 프로젝트\1팀_1차 프로젝트\MFC_GUI\MFC_TEST\MFC_TEST\database.h(9,10): error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  (compiling source file '/db_user_info.cpp')
+  
+  im_qrcode.cpp
+C:\Users\쫀쫀이\Desktop\Portfolio\1팀_1차 프로젝트\1팀_1차 프로젝트\MFC_GUI\MFC_TEST\MFC_TEST\database.h(9,10): error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  (compiling source file '/im_qrcode.cpp')
+  
+  MFC_TEST.cpp
+  MFC_TESTDlg.cpp
+C:\Users\쫀쫀이\Desktop\Portfolio\1팀_1차 프로젝트\1팀_1차 프로젝트\MFC_GUI\MFC_TEST\MFC_TEST\database.h(9,10): error C1083: Cannot open include file: 'mysql/jdbc.h': No such file or directory
+  (compiling source file '/MFC_TESTDlg.cpp')
+  
+  qrcodegen.cpp
+  Generating Code...
