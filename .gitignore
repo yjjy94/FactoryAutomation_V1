@@ -2,3 +2,9 @@
 "*.pch" 
 "*.ipch" 
 "*.VC.db" 
+.vs/ 
+*.pch 
+*.ipch 
+*.VC.db 
+x64/ 
+Debug/ 
