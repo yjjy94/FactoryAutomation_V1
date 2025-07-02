@@ -40,17 +40,8 @@
 ---
 
 ## 시스템 아키텍처
-[MFC UI]
-↓
-[C++ 로직]
-├─ OpenCV/YOLO: 영상·손상탐지
-├─ QR코드 인식/생성
-├─ MySQL 연동: 주문·고객 DB
-└─ 시리얼통신: Arduino(하드웨어)
-↓
-[Arduino]
-↓
-[컨베이어, 서보, 센서 등 제어]
+![image](https://github.com/user-attachments/assets/70807449-22ff-4c21-87de-31822e606a5c)
+
 
 ---
 
